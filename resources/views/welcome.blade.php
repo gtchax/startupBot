@@ -28,6 +28,7 @@
 
         .content {
             text-align: center;
+            color: white;
         }
 
         .logo {
@@ -59,11 +60,7 @@
         </div>
 
         <div class="links">
-            <a href="/botman/tinker">Tinker</a>
-            <a href="https://botman.io/docs" target="_blank">Documentation</a>
-            <a href="https://twitter.com/botman_io" target="_blank">News</a>
-            <a href="https://rauchg-slackin-jtdkltstsj.now.sh/" target="_blank">Slack</a>
-            <a href="https://github.com/botman/botman" target="_blank">GitHub</a>
+          <h2 class="content">Egypreneur StartUp Chatbot</h2>
         </div>
     </div>
 </div>
